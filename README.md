@@ -1,5 +1,5 @@
 # lexc2dix
-A software that parses over the existing lttoolbox format and generates the corresponding monolingual dictionary in lttoolbox format. The package is modular and is user-friendly with proper help message and usage instructions. This was done as a part of coding challenge for the project `Extend lttoolbox to have the power of HFST`.
+A software that parses over the existing dictionary in lexc format and generates the corresponding monolingual dictionary in lttoolbox format. The package is modular and is user-friendly with proper help message and usage instructions. This was done as a part of coding challenge for the project `Extend lttoolbox to have the power of HFST`.
 
 INSTALLATION
 ------------
